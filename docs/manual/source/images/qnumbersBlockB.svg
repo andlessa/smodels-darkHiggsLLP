@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="9 59 481.682 225" xmlns:latexdraw="http://latexdraw.sourceforge.net/namespaces/latexdraw" version="1.1" baseProfile="full">
+    <g>
+        <g latexdraw:type="joinedLines" id="id1006209284">
+            <polyline points="192.0,133.0 138.0,81.0 " stroke="#666666" stroke-width="3.0" fill="black" latexdraw:rotationAngle="0.0" marker-start="url(#arrow0-1006209284)"/>
+        </g>
+        <g latexdraw:type="text" id="id1174627999" fill="black" latexdraw:position="bl">
+            <text x="29.0" y="79.0">{\Large Block identifier}</text>
+        </g>
+        <g latexdraw:type="joinedLines" id="id1751760427">
+            <polyline points="336.45843743622,135.35705615913824 306.54156256377973,84.64294384086224 " stroke="#666666" stroke-width="3.0" fill="black" latexdraw:rotationAngle="0.0" marker-start="url(#arrow0-1751760427)"/>
+        </g>
+        <g latexdraw:type="text" id="id636466845" fill="black" latexdraw:position="bl">
+            <text x="220.0" y="79.0">{\Large 
+particle PDG
+}</text>
+        </g>
+        <g latexdraw:type="joinedLines" id="id23736879">
+            <polyline points="419.3178274005739,134.02735140764491 470.6821725994264,90.97264859235548 " stroke="#666666" stroke-width="3.0" fill="black" latexdraw:rotationAngle="0.0" marker-start="url(#arrow0-23736879)"/>
+        </g>
+        <g latexdraw:type="text" id="id245305365" fill="black" latexdraw:position="bl">
+            <text x="80.0" y="264.0">\large 
+\begin{tabular}{l}
+BLOCK QNUMBERS 1000022   \# n1\\
+ \hspace{45pt}  1 \hspace{5pt} 0 \hspace{5pt} \# 3 times electric charge\\
+ \hspace{45pt}  2 \hspace{5pt} 2 \hspace{5pt} \# number of spin states (2s+1)\\
+ \hspace{45pt}  3 \hspace{5pt} 1 \hspace{5pt} \# colour rep (1: singlet, 3: triplet, 8: octet)\\
+ \hspace{45pt}  4 \hspace{5pt} 0 \hspace{5pt} \# particle/antiparticle distinction (0=own anti)
+\end{tabular}</text>
+        </g>
+        <g latexdraw:type="text" id="id668306590" fill="black" latexdraw:position="bl">
+            <text x="451.0" y="99.0">\begin{tabular}{c} {\Large 
+particle label}\\ {\large (optional)
+} \end{tabular}</text>
+        </g>
+    </g>
+    <defs>
+        <marker overflow="visible" markerUnits="userSpaceOnUse" orient="43.919" id="arrow0-1006209284">
+            <path d="M 0.0 0.0 L -12.104166666666666 -4.322916666666667 L -12.104166666666666 0.0 L -12.104166666666666 4.322916666666667 z" fill="#666666" stroke="#666666" latexdraw:arrSizeNum="2" latexdraw:tbarSizeNum="5"/>
+        </marker>
+        <marker overflow="visible" markerUnits="userSpaceOnUse" orient="59.463" id="arrow0-1751760427">
+            <path d="M 0.0 0.0 L -12.104166666666666 -4.322916666666667 L -12.104166666666666 0.0 L -12.104166666666666 4.322916666666667 z" fill="#666666" stroke="#666666" latexdraw:arrSizeNum="2" latexdraw:tbarSizeNum="5"/>
+        </marker>
+        <marker overflow="visible" markerUnits="userSpaceOnUse" orient="140.03" id="arrow0-23736879">
+            <path d="M 0.0 0.0 L -12.104166666666666 -4.322916666666667 L -12.104166666666666 0.0 L -12.104166666666666 4.322916666666667 z" fill="#666666" stroke="#666666" latexdraw:arrSizeNum="2" latexdraw:tbarSizeNum="5"/>
+        </marker>
+    </defs>
+    <metadata>
+        <latexdraw:metadata>
+            <latexdraw:centreHoriz>false</latexdraw:centreHoriz>
+            <latexdraw:positionVert/>
+            <latexdraw:zoom>1.0</latexdraw:zoom>
+            <latexdraw:vpx>0.5</latexdraw:vpx>
+            <latexdraw:vpy>0.436</latexdraw:vpy>
+        </latexdraw:metadata>
+    </metadata>
+</svg>
