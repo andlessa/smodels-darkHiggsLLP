@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" viewBox="-1 -14 532 579" xmlns:latexdraw="http://latexdraw.sourceforge.net/namespaces/latexdraw" version="1.1" baseProfile="full">
+    <g>
+        <g latexdraw:type="picture" id="id1975162904">
+            <image xlink:href="/home/lessa/smodels-graphs/docs/manual/source/images/sms_decomp1.png" x="63.0" y="188.0" height="131.0" width="136.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id1575707284">
+            <polyline points="223.0,191.0 293.0,171.0 " stroke="#c72b2b" stroke-width="3.0" fill="black" latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-1575707284)"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id1836217468">
+            <polyline points="225.84075596299277,308.18241484562304 288.1592440370072,345.81758515437696 " stroke="#3a85e2" stroke-width="3.0" fill="black" latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-1836217468)"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id1400790708">
+            <polyline points="154.0,317.0 82.0,386.0 " stroke="black" stroke-width="2.0" fill="black" latexdraw:rotationAngle="0.0" marker-start="url(#arrow0-1400790708)"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id613148183">
+            <polyline points="149.0,239.0 82.0,386.0 " stroke="black" stroke-width="2.0" fill="black" latexdraw:rotationAngle="0.0" marker-start="url(#arrow0-613148183)"/>
+        </g>
+        <g latexdraw:type="text" id="id1264767957" fill="black" latexdraw:position="bl">
+            <text x="19.0" y="429.0">\LARGE {Primary Mothers}</text>
+        </g>
+        <g latexdraw:type="picture" id="id1298693123">
+            <image xlink:href="/home/lessa/smodels-graphs/docs/manual/source/images/sms_decomp1d.png" x="310.0" y="431.0" height="93.0" width="99.0"/>
+        </g>
+        <g latexdraw:type="picture" id="id2006750711">
+            <image xlink:href="/home/lessa/smodels-graphs/docs/manual/source/images/sms_decomp1c.png" x="310.0" y="157.0" height="93.0" width="99.0"/>
+        </g>
+        <g latexdraw:type="picture" id="id786374362">
+            <image xlink:href="/home/lessa/smodels-graphs/docs/manual/source/images/sms_decomp1b.png" x="310.0" y="330.0" height="93.0" width="99.0"/>
+        </g>
+        <g latexdraw:type="picture" id="id1309640139">
+            <image xlink:href="/home/lessa/smodels-graphs/docs/manual/source/images/sms_decomp1a.png" x="310.0" y="6.0" height="147.0" width="99.0"/>
+        </g>
+        <g latexdraw:type="ellipse" id="id1831103481">
+            <ellipse cx="169.25" cy="289.0" rx="50.75" ry="31.0" latexdraw:borderPos="outer" stroke="#3a85e2" stroke-width="3.0" fill="none" stroke-dasharray="8.819444444444445, 5.291666666666667"/>
+        </g>
+        <g latexdraw:type="ellipse" id="id704978076">
+            <ellipse cx="169.25" cy="216.0" rx="50.75" ry="31.0" latexdraw:borderPos="outer" stroke="#c72b2b" stroke-width="3.0" fill="none" stroke-dasharray="8.819444444444445, 5.291666666666667"/>
+        </g>
+        <g latexdraw:type="text" id="id1247787694" fill="black" latexdraw:position="bl">
+            <text x="349.0" y="273.0">\Huge ...</text>
+        </g>
+        <g latexdraw:type="text" id="id1751827986" fill="black" latexdraw:position="bl">
+            <text x="349.0" y="545.0">\Huge ...</text>
+        </g>
+        <g latexdraw:type="joinedLines" id="id285031997">
+            <polyline points="438.0,65.0 507.0,100.0 " stroke="#666666" stroke-width="3.0" fill="black" latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-285031997)"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id532223335">
+            <polyline points="431.0,193.0 511.0,150.0 " stroke="#666666" stroke-width="3.0" fill="black" latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-532223335)"/>
+        </g>
+        <g latexdraw:type="text" id="id963044008" fill="black" latexdraw:position="bl">
+            <text x="482.0" y="141.0">\LARGE {Decays of  mother "A"}</text>
+        </g>
+        <g latexdraw:type="joinedLines" id="id157297161">
+            <polyline points="430.0,360.0 499.0,395.0 " stroke="#666666" stroke-width="3.0" fill="black" latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-157297161)"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id2117395792">
+            <polyline points="423.0,488.0 503.0,445.0 " stroke="#666666" stroke-width="3.0" fill="black" latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-2117395792)"/>
+        </g>
+        <g latexdraw:type="text" id="id751500882" fill="black" latexdraw:position="bl">
+            <text x="474.0" y="436.0">\LARGE {Decays of  mother "B"}</text>
+        </g>
+    </g>
+    <defs>
+        <marker overflow="visible" markerUnits="userSpaceOnUse" orient="344.055" id="arrow1-1575707284">
+            <path d="M 0.0 0.0 L -4.034722222222222 -4.322916666666667 L -4.034722222222222 0.0 L -4.034722222222222 4.322916666666667 z" fill="#c72b2b" stroke="#c72b2b" latexdraw:arrSizeNum="2" latexdraw:tbarSizeNum="5"/>
+        </marker>
+        <marker overflow="visible" markerUnits="userSpaceOnUse" orient="31.128" id="arrow1-1836217468">
+            <path d="M 0.0 0.0 L -4.034722222222222 -4.322916666666667 L -4.034722222222222 0.0 L -4.034722222222222 4.322916666666667 z" fill="#3a85e2" stroke="#3a85e2" latexdraw:arrSizeNum="2" latexdraw:tbarSizeNum="5"/>
+        </marker>
+        <marker overflow="visible" markerUnits="userSpaceOnUse" orient="316.219" id="arrow0-1400790708">
+            <path d="M 0.0 0.0 L -9.304166666666667 -3.322916666666667 L -9.304166666666667 0.0 L -9.304166666666667 3.322916666666667 z" fill="black" stroke="black" latexdraw:arrSizeNum="2" latexdraw:tbarSizeNum="5"/>
+        </marker>
+        <marker overflow="visible" markerUnits="userSpaceOnUse" orient="294.503" id="arrow0-613148183">
+            <path d="M 0.0 0.0 L -9.304166666666667 -3.322916666666667 L -9.304166666666667 0.0 L -9.304166666666667 3.322916666666667 z" fill="black" stroke="black" latexdraw:arrSizeNum="2" latexdraw:tbarSizeNum="5"/>
+        </marker>
+        <marker overflow="visible" markerUnits="userSpaceOnUse" orient="26.896" id="arrow1-285031997">
+            <path d="M 0.0 0.0 L -4.034722222222222 -4.322916666666667 L -4.034722222222222 0.0 L -4.034722222222222 4.322916666666667 z" fill="#666666" stroke="#666666" latexdraw:arrSizeNum="2" latexdraw:tbarSizeNum="5"/>
+        </marker>
+        <marker overflow="visible" markerUnits="userSpaceOnUse" orient="331.742" id="arrow1-532223335">
+            <path d="M 0.0 0.0 L -4.034722222222222 -4.322916666666667 L -4.034722222222222 0.0 L -4.034722222222222 4.322916666666667 z" fill="#666666" stroke="#666666" latexdraw:arrSizeNum="2" latexdraw:tbarSizeNum="5"/>
+        </marker>
+        <marker overflow="visible" markerUnits="userSpaceOnUse" orient="26.896" id="arrow1-157297161">
+            <path d="M 0.0 0.0 L -4.034722222222222 -4.322916666666667 L -4.034722222222222 0.0 L -4.034722222222222 4.322916666666667 z" fill="#666666" stroke="#666666" latexdraw:arrSizeNum="2" latexdraw:tbarSizeNum="5"/>
+        </marker>
+        <marker overflow="visible" markerUnits="userSpaceOnUse" orient="331.742" id="arrow1-2117395792">
+            <path d="M 0.0 0.0 L -4.034722222222222 -4.322916666666667 L -4.034722222222222 0.0 L -4.034722222222222 4.322916666666667 z" fill="#666666" stroke="#666666" latexdraw:arrSizeNum="2" latexdraw:tbarSizeNum="5"/>
+        </marker>
+    </defs>
+    <metadata>
+        <latexdraw:metadata>
+            <latexdraw:centreHoriz>false</latexdraw:centreHoriz>
+            <latexdraw:positionVert/>
+            <latexdraw:zoom>1.0</latexdraw:zoom>
+            <latexdraw:vpx>0.5</latexdraw:vpx>
+            <latexdraw:vpy>0.4</latexdraw:vpy>
+        </latexdraw:metadata>
+    </metadata>
+</svg>

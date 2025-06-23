@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<smodelsOutput>
+    <CombinedRes_List>
+        <CombinedRes>
+            <AnalysisID>ATLAS-SUSY-2018-10,CMS-SUS-13-012</AnalysisID>
+            <nll>21.042502</nll>
+            <nll_SM>9.236090</nll_SM>
+            <nll_min>9.236050</nll_min>
+            <r>3.129969</r>
+            <r_expected>3.169335</r_expected>
+        </CombinedRes>
+    </CombinedRes_List>
+    <ExptRes_List>
+        <ExptRes>
+            <AnalysisID>ATLAS-SUSY-2018-10</AnalysisID>
+            <AnalysisSqrts_TeV>13.0</AnalysisSqrts_TeV>
+            <DataSetID>4j0blowx_3</DataSetID>
+            <Mass_GeV_List>
+                <Mass_GeV>('sd_L/su_L', 993.11)</Mass_GeV>
+                <Mass_GeV>('su_L', 991.5)</Mass_GeV>
+                <Mass_GeV>('C1+/C1-', 269.0)</Mass_GeV>
+                <Mass_GeV>('C1+', 269.0)</Mass_GeV>
+                <Mass_GeV>('N1/N1~', 129.0)</Mass_GeV>
+                <Mass_GeV>('N1', 129.0)</Mass_GeV>
+            </Mass_GeV_List>
+            <TxNames_List>
+                <TxNames>T6WW</TxNames>
+            </TxNames_List>
+            <TxNames_weights_fb>
+                <T6WW>0.17976008654165604</T6WW>
+            </TxNames_weights_fb>
+            <Width_GeV_List>
+                <Width_GeV>('sd_L/su_L', 'prompt')</Width_GeV>
+                <Width_GeV>('su_L', 'prompt')</Width_GeV>
+                <Width_GeV>('C1+/C1-', 'prompt')</Width_GeV>
+                <Width_GeV>('C1+', 'prompt')</Width_GeV>
+                <Width_GeV>('N1/N1~', 'stable')</Width_GeV>
+                <Width_GeV>('N1', 'stable')</Width_GeV>
+            </Width_GeV_List>
+            <dataType>efficiencyMap</dataType>
+            <expected_upper_limit_fb>0.0582</expected_upper_limit_fb>
+            <nll>15.491848</nll>
+            <nll_SM>3.183696</nll_SM>
+            <nll_min>3.183696</nll_min>
+            <lumi_fb-1>139.0</lumi_fb-1>
+            <maxcond>0.0</maxcond>
+            <r>3.088661</r>
+            <r_expected>3.088661</r_expected>
+            <theory_prediction_fb>0.1797601</theory_prediction_fb>
+            <upper_limit_fb>0.0582</upper_limit_fb>
+        </ExptRes>
+		    ...
